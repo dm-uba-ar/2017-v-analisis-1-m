@@ -69,6 +69,3 @@ Las fechas previstas para los exámenes son las siguientes:
 - **Segundo parcial**: viernes 17 de marzo 11hs. Aula Magna del Pabellón I.
 - **Recuperatorio del primer parcial**: sábado 25 de marzo, 9:15hs Aula Magna del Pabellón I
 - **Recuperatorio del segundo parcial**: sábado 1 de abril, 9:15hs
-
-[Cronograma Aproximado (tentativo) de las Clases Teóricas](https://calendar.google.com/calendar/embed?src=834mmv6vfqovtq53r7hh3utdb4%40group.calendar.google.com&ctz=America/Argentina/Buenos_Aires)
-\
